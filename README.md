@@ -1,0 +1,2 @@
+# localstore
+practice django project
